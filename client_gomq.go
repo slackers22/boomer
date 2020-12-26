@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/zeromq/gomq"
-	"github.com/zeromq/gomq/zmtp"
+	"github.com/slackers22/gomq"
+	"github.com/slackers22/gomq/zmtp"
 )
 
 type gomqSocketClient struct {
